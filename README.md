@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Ideal Memory, the way to remember or learn code.
 
-You can use the [editor on GitHub](https://github.com/MrDiamond123/ideal-memory/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrDiamond123/ideal-memory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What is it about?
+Ideal Memory is a reference for Website Creation.
+### Table of Contents
+#### HTML (The Base)
+1. [Basics of HTML] (MrDiamond123.github.io/ideal-memory/HTML/ChapterOne/README.md)
+2. [A Little More HTML] (MrDiamond123.github.io/ideal-memory/HTML/ChapterTwo/README.md)
+3. [The Last of HTML] (MrDiamond123.github.io/ideal-memory/HTML/ChapterThree/README.md)
+#### CSS (The Style)
+1. [Basics of CSS] (MrDiamond123.github.io/ideal-memory/CSS/ChapterOne/README.md)
+2. [A Little More CSS] (MrDiamond123.github.io/ideal-memory/CSS/ChapterTwo/README.md)
+3. [The Last of CSS] (MrDiamond123.github.io/ideal-memory/CSS/ChapterThree/README.md)
+#### JS (The Script)
+1. [Basics of JS] (MrDiamond123.github.io/ideal-memory/JS/ChapterOne/README.md)
+2. [A Little More JS] (MrDiamond123.github.io/ideal-memory/JS/ChapterTwo/README.md)
+3. [The Last of JS] (MrDiamond123.github.io/ideal-memory/JS/ChapterThree/README.md)
